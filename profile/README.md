@@ -1,6 +1,8 @@
-# 國立中興大學資訊科學研習社社團【組織章程】[![hackmd-github-sync-badge](https://hackmd.io/@NCHUIT/terms/badge)](https://hackmd.io/@NCHUIT/terms)
+# 國立中興大學資訊科學研習社社團【組織章程】
 
-<p style="text-align:right">
+[![hackmd-github-sync-badge](https://hackmd.io/@NCHUIT/terms/badge)](https://hackmd.io/@NCHUIT/terms)
+
+<p style="text-align:right" align="right" dir="rtl">
 本組織法於民國102年9月23日通過<br>
 民國102年11月19日修訂通過(第7-10章)<br>
 民國104年9月15日修訂通過(第1章)<br>
